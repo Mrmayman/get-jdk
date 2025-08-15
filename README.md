@@ -15,6 +15,7 @@ Solaris SPARC 64-bit (SVR4 package)|	133.01 MB|	[jdk-8u231-solaris-sparcv9.tar.Z
 Solaris SPARC 64-bit|	94.24 MB|	[jdk-8u231-solaris-sparcv9.tar.gz][9]|
 Solaris x64 (SVR4 package)|	133.8 MB|	[jdk-8u231-solaris-x64.tar.Z][10]|
 Solaris x64|	92.01 MB|	[jdk-8u231-solaris-x64.tar.gz][11]|
+FreeBSD x64| 103.9 MB| [jdk-8u452-freebsd-x64.tar.gz][14]|
 Windows x86|	200.86 MB|	[jdk-8u231-windows-i586.exe][12]|
 Windows x64|	210.92 MB|	[jdk-8u231-windows-x64.exe][13]|
 
@@ -31,3 +32,4 @@ Windows x64|	210.92 MB|	[jdk-8u231-windows-x64.exe][13]|
  [11]: https://github.com/hmsjy2017/get-jdk/releases/download/v8u231/jdk-8u231-solaris-x64.z
  [12]: https://github.com/hmsjy2017/get-jdk/releases/download/v8u231/jdk-8u231-windows-i586.exe
  [13]: https://github.com/hmsjy2017/get-jdk/releases/download/v8u231/jdk-8u231-windows-x64.exe
+ [14]: https://github.com/Mrmayman/get-jdk/releases/download/java8-1/jdk-8u452-freebsd-x64.tar.gz
